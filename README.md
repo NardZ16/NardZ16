@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mücahit</h1>
-<h3 align="center">Indie Game Developer | Unity Developer | System Designer</h3>
+<h3 align="center">Indie Game Developer | Unity Developer</h3>
 
 ---
 
