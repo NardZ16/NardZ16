@@ -40,11 +40,11 @@
 
 ## 📌 Featured Projects
 
-Vampire Survivors like Car game (in progress...)
-DJ Board Rythm Game (in progresss...)
-Untangle It (Knot Puzzle Solving Game) (in progress...)
-CvHelps (CV Review and Job interview simulation)
-Namaz Vakti Pro (Prayer Times App)
+Vampire Survivors like Car game (in progress...) <br>
+DJ Board Rythm Game (in progresss...) <br>
+Untangle It (Knot Puzzle Solving Game) (in progress...) <br>
+CvHelps (CV Review and Job interview simulation) <br>
+Namaz Vakti Pro (Prayer Times App) <br>
 EnKelime (English study App for Turkish speakers)
 
 
