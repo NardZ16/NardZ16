@@ -27,20 +27,11 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
-
----
 
 ## 🎯 Current Focus
 
-- 🔥 Building **Vampire Survivor-like systems**
+- 🔥 Building **Mobile Games & Vibe Coding Apps**
 - ⚖️ Designing **balanced progression systems**
 - 🧩 Creating **modular game architectures**
 - 🤖 Using **AI for level & system generation**
@@ -49,22 +40,21 @@
 
 ## 📌 Featured Projects
 
-🚧 Coming soon... (You can pin your best projects here)
+Vampire Survivors like Car game (in progress...)
+DJ Board Rythm Game (in progresss...)
+Untangle It (Knot Puzzle Solving Game) (in progress...)
+CvHelps (CV Review and Job interview simulation)
+Namaz Vakti Pro (Prayer Times App)
+EnKelime (English study App for Turkish speakers)
+
+
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/NardZ16">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
----
-
-## 💡 Quote
-
-> "I don’t just build games, I build systems that create experiences."
-
----
