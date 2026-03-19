@@ -40,9 +40,9 @@
 
 ## 📌 Featured Projects
 
-Vampire Survivors like Car game (in progress...) <br>
-DJ Board Rythm Game (in progresss...) <br>
-Untangle It (Knot Puzzle Solving Game) (in progress...) <br>
+Vampire Survivors like Car game (in development...) <br>
+DJ Board Rythm Game (in development...) <br>
+Untangle It (Knot Puzzle Solving Game) (in development...) <br>
 CvHelps (CV Review and Job interview simulation) <br>
 Namaz Vakti Pro (Prayer Times App) <br>
 EnKelime (English study App for Turkish speakers)
@@ -50,6 +50,47 @@ EnKelime (English study App for Turkish speakers)
 
 
 ---
+## 🎮 Game Showcase
+
+---
+
+### 🚗  Vampire Survivor-like Car Game (in development...)
+
+
+A fast-paced survival game with vehicle-based combat and progression systems.
+
+<p align="center">
+  <img src="https://i.hizliresim.com/poi26pl.png" width="45%"/>
+  <img src="https://i.hizliresim.com/s1y0bpa.png" width="45%"/>
+</p>
+
+#### 🧩 Knot Puzzle Game (in development...)
+A satisfying puzzle experience where players untangle complex knots.
+
+<p align="center">
+  <img src="https://i.hizliresim.com/qp5d26m.png" width="45%"/>
+  <img src="https://i.hizliresim.com/7tw67zl.png" width="45%"/>
+</p>
+
+- 🧠 Procedural level logic  
+- 📐 Knot generation algorithm  
+- 📊 Difficulty scaling  
+
+🔗 https://github.com/NardZ16/untangle-it-
+
+---
+
+#### 🎵 DJ Rhythm Game (in development...)
+A rhythm-based game focused on timing and music interaction.
+
+<p align="center">
+  <img src="https://i.hizliresim.com/4t2yprb.png" width="45%"/>
+</p>
+
+- 🎶 Beat sync mechanics  
+- ⏱️ Timing-based scoring  
+- 🎮 Interactive music gameplay  
+
 
 ## 🌐 Connect With Me
 
