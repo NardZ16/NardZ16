@@ -54,6 +54,16 @@ EnKelime (English study App for Turkish speakers)
 
 ---
 
+#### MineSweeper100 (RogueLite)
+MineSweeper with RogueLite Mode
+
+<p align="center">
+  <img src="https://i.hizliresim.com/stj5rxt.png" width="45%"/>
+  <img src="https://i.hizliresim.com/kckihk4.png" width="45%"/>
+</p>
+
+🔗 https://github.com/NardZ16/MineSweeper100-2.0-RogueLite-
+
 ### 🚗  Vampire Survivor-like Car Game (in development...)
 
 
