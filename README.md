@@ -57,8 +57,10 @@ EnKelime (English study App for Turkish speakers)
 Matching Gaame with Color Magnets
 
 <p align="center">
-  <img src="https://i.hizliresim.com/5p1avr9.png" width="45%"/>
-  <img src="https://i.hizliresim.com/1huz3c3.png" width="45%"/>
+  <a href="https://www.youtube.com/watch?v=bS_RS0lXbxk">
+    <img src="https://img.youtube.com/vi/bS_RS0lXbxk/maxresdefault.jpg" width="%30">
+  <img src="https://i.hizliresim.com/5p1avr9.png" width="30%"/>
+  <img src="https://i.hizliresim.com/1huz3c3.png" width="30%"/>
 </p>
 
 #### MineSweeper100 (RogueLite)
