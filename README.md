@@ -54,7 +54,7 @@ EnKelime (English study App for Turkish speakers)
 
 ---
 ###  ColorPull 
-Matching Gaame with Color Magnets
+Matching Game with Color Magnets
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=bS_RS0lXbxk">
