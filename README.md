@@ -57,7 +57,6 @@ EnKelime (English study App for Turkish speakers)
 Matching Gaame with Color Magnets
 
 <p align="center">
-  <iframe width="1013" height="570" src="https://www.youtube.com/embed/bS_RS0lXbxk" title="colorpull" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <img src="https://i.hizliresim.com/5p1avr9.png" width="45%"/>
   <img src="https://i.hizliresim.com/1huz3c3.png" width="45%"/>
 </p>
